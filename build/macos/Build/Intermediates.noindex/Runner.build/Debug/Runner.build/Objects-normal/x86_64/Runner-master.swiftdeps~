@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "c126bbe6f738d30448c65dcf4023ec78e1fd1b7350dbe029dd93b57362f9282d"
+build_start_time: [1666306546, 760535001]
+build_end_time: [1666306547, 311525821]
+inputs:
+  "/Users/timothyofwono/Downloads/tim_flutterwave_new/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1666306415, 639351129]
+  "/Users/timothyofwono/Downloads/tim_flutterwave_new/macos/Runner/AppDelegate.swift": !private [1664936353, 0]
+  "/Users/timothyofwono/Downloads/tim_flutterwave_new/macos/Runner/MainFlutterWindow.swift": !private [1664936353, 0]

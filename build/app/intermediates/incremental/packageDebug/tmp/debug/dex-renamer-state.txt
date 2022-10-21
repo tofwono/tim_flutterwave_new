@@ -1,0 +1,4 @@
+#Fri Oct 21 03:32:24 MUT 2022
+base.0=/Users/timothyofwono/Downloads/tim_flutterwave_new/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
